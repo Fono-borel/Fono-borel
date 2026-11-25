@@ -171,4 +171,3 @@ Les animations sont du SMIL : elles tournent dans un navigateur / sur GitHub,
 pas dans les rasteriseurs statiques (`resvg`, `rsvg-convert`). Pour un aperçu
 statique, forcer les `opacity="0"` à `1` avant de rasteriser.
 
-`dark.svg.backup-arifhasan` = version précédente (profil « Arif Hasan »).
